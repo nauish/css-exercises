@@ -1,0 +1,18 @@
+p.odd {
+    font-family: Verdana, "DejaVU Sans", sans-serif;
+    background-color: #ffc0cb;
+}
+
+.font-size-24 {
+    font-size: 24px;
+}
+
+#second {
+    font-size: 36px;
+    color: blue;
+}
+
+#fourth {
+    font-weight: bold;
+    background-color: #90ee90;
+}
